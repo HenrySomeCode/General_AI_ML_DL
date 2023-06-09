@@ -16,6 +16,8 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 ##### [Generating fake face using pytorch](https://github.com/HenrySomeCode/DCGAN_fake_face_pytorch.git)
 
+##### [Generating fake handwritten digits using tensorflow](https://github.com/HenrySomeCode/DCGAN_fake_handwritten_digits_tensorflow.git)
+
 
 
 
