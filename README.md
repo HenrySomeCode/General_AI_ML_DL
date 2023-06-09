@@ -28,7 +28,7 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 #### sth here ... from https://www.tensorflow.org/tutorials/keras/classification
 
 
-# Deep learning for natural language processing
+## Deep learning for natural language processing
 
 ### RNN
 
