@@ -1,8 +1,12 @@
 # My Own AI/ML/DL Learning Process
 
+*Tiny Note: as an active person who is into learning languages, I'll try to write this repo in different languages. This may include Japanese, Chinese, and Korean.*
+
 Hi, I created this repo for listing projects made by myself in the AI/ML/DL learning process . Here it is:
 
 こにちは，AI/ML/DL学習プロセスで　自分が　作成した　プロジェクトを　リストする　ために　このリポジトリを　作成しました．ここにあります：
+
+(I listed references in each project link) (各プロジェクトの リンクに 参考文献を リストしました)
 
 ## Machine learning
 
