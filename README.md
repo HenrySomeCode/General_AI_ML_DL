@@ -14,7 +14,7 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 #### Classification: Iris classification
 
-#### House pricing
+#### [Regression: House pricing using Linear Regression, KNN](https://github.com/HenrySomeCode/Boston_House_Price_Prediction.git)
 
 ### Unsupervised learning
 
