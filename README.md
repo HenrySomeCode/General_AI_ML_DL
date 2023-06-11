@@ -12,7 +12,7 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 ### Supervised learning
 
-#### Iris classification
+#### Classification: Iris classification
 
 #### House pricing
 
