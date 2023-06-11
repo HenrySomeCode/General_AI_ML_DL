@@ -12,7 +12,7 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 ### Supervised learning
 
-#### Classification: Iris classification
+#### [Classification: Iris classification using naive bayes, decision tree, random forest, knn, svm](https://github.com/HenrySomeCode/Iris-classification-using-naive-bayes-decision-tree-random-forest-knn-svm.git)
 
 #### [Regression: House pricing using Linear Regression, KNN](https://github.com/HenrySomeCode/Boston_House_Price_Prediction.git)
 
