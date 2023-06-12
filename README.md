@@ -27,9 +27,9 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 ### Neural Network
 
-#### Classify images of clothing - Fashion MNIST datset
+#### [Classify images of clothing - Fashion MNIST datset](https://github.com/HenrySomeCode/Classify-images-of-clothing-using-fully-connected-neural-network.git)
 
-#### sth here ... from https://www.tensorflow.org/tutorials/keras/classification
+#### Basic regression: Predict fuel efficiency from https://www.tensorflow.org/tutorials/keras/classification
 
 
 ## Deep learning for natural language processing
