@@ -20,7 +20,7 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 #### [Country clustering using K-means](https://github.com/HenrySomeCode/Country-Clustering-using-K-means.git)
 
-#### Separate objects from image
+#### [Separate objects from image](https://github.com/HenrySomeCode/Separating-Object-From-Image.git)
 
 
 ## Deep learning
