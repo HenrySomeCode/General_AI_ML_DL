@@ -18,7 +18,7 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 ### Unsupervised learning
 
-#### Country clustering
+#### [Country clustering using K-means](https://github.com/HenrySomeCode/Country-Clustering-using-K-means.git)
 
 #### Separate objects from image
 
