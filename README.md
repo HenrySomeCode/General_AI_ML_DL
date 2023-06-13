@@ -36,7 +36,7 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 ### RNN
 
-#### (Feature) Classifying names. Ref: https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html 
+#### [Classify which country the name belongs to using RNN Pytorch](https://github.com/HenrySomeCode/Classify-which-country-the-name-belongs-to-using-RNN-Pytorch.git)
 
 #### (Feature) Generating names. Ref: https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html 
 
