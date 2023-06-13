@@ -29,12 +29,18 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 #### [Classify images of clothing - Fashion MNIST datset](https://github.com/HenrySomeCode/Classify-images-of-clothing-using-fully-connected-neural-network.git)
 
-#### Basic regression: Predict fuel efficiency from https://www.tensorflow.org/tutorials/keras/classification
+#### (Feature) Basic regression: Predict fuel efficiency. Ref: https://www.tensorflow.org/tutorials/keras/classification
 
 
 ## Deep learning for natural language processing
 
 ### RNN
+
+#### (Feature) Classifying names. Ref: https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html 
+
+#### (Feature) Generating names. Ref: https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html 
+
+#### (Feature) Translation with a sequence to sequence network and attention. Ref: https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html 
 
 ### LSTM
 
