@@ -42,6 +42,8 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 #### (Feature) Translation with a sequence to sequence network and attention. Ref: https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html 
 
+#### (Feature) Sentiment analysis. Ref:  https://www.tensorflow.org/text/tutorials/text_classification_rnn
+
 ### LSTM
 
 
