@@ -46,10 +46,16 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 ### LSTM
 
+### [Predicting Stock using LSTM](https://github.com/HenrySomeCode/Predicting-Stock-Using-LSTM.git)
+
 
 ## Deep learning for computer vision 
 
 ### CNN
+
+#### [Classify cifar images using CNN](https://github.com/HenrySomeCode/Classify-cifar-images-using-CNN.git)
+
+#### TransferLearning
 
 ### Object Detection
 
