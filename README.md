@@ -61,7 +61,7 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 ### Image Segmentation
 
-#### [Imgae segmentation using U-net, TensorFlow](https://github.com/HenrySomeCode/Image-Segmentation-using-U-net-TensorFlow.git)
+#### [Image segmentation using U-net, TensorFlow](https://github.com/HenrySomeCode/Image-Segmentation-using-U-net-TensorFlow.git)
 
 ### Generative model 
 
