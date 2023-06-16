@@ -63,6 +63,8 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 #### [Image segmentation using U-net, TensorFlow](https://github.com/HenrySomeCode/Image-Segmentation-using-U-net-TensorFlow.git)
 
+#### (Feature) Multiclass semantic segmentation using DeepLabV3+. Ref: https://keras.io/examples/vision/deeplabv3_plus/
+
 ### Generative model 
 
 #### [Autoencoder: the basic, denoising and anomolies detection](https://github.com/HenrySomeCode/AE_basic_denoise_anomalies_detection.git)
