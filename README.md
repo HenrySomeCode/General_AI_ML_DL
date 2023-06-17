@@ -59,6 +59,8 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 #### TransferLearning
 
+##### [Transfer learning using various pretrained models to predict fruits](https://github.com/HenrySomeCode/Transfer-learning-using-Various-Pretrained-Models-to-Predict-Fruits.git)
+
 ### Object Detection
 
 ### Image Segmentation
