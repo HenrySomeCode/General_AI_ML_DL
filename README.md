@@ -63,6 +63,10 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 ### Object Detection
 
+##### [Detecting and tracking vehicles by using Yolov7 and ByteTrack](https://github.com/HenrySomeCode/Detecting-Tracking-Vehicle-Mini-Project-Using-Yolov7-ByteTrack.git)
+
+### Object tracking
+
 ### Image Segmentation
 
 #### [Image segmentation using U-net, TensorFlow](https://github.com/HenrySomeCode/Image-Segmentation-using-U-net-TensorFlow.git)
