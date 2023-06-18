@@ -46,13 +46,13 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 #### (Feature) Glove
 
-### Name Entity Recognition
+### (Feature) Name Entity Recognition
 
-### Matrix Caculus
+### (Feature) Matrix Caculus
 
-### Dependency Parsing
+### (Feature) Dependency Parsing
 
-### Constituency Parsing
+### (Feature) Constituency Parsing
 
 ### RNN
 
