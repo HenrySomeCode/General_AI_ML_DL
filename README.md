@@ -73,6 +73,8 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 #### (Feature) Multiclass semantic segmentation using DeepLabV3+. Ref: https://keras.io/examples/vision/deeplabv3_plus/
 
+#### (Feature) Video classification . Ref: https://www.tensorflow.org/tutorials/video/video_classification 
+
 ### Generative model 
 
 #### [Autoencoder: the basic, denoising and anomolies detection](https://github.com/HenrySomeCode/AE_basic_denoise_anomalies_detection.git)
