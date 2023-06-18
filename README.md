@@ -36,6 +36,24 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 ## Deep learning for natural language processing
 
+### (Feature) Word2vec
+
+### (Feature) Word Vectors - GloVe
+
+#### (Feature) Negative Sampling
+
+#### (Feature) Co-occurrence matrix
+
+#### (Feature) Glove
+
+### Name Entity Recognition
+
+### Matrix Caculus
+
+### Dependency Parsing
+
+### Constituency Parsing
+
 ### RNN
 
 #### [Classify which country the name belongs to using RNN Pytorch](https://github.com/HenrySomeCode/Classify-which-country-the-name-belongs-to-using-RNN-Pytorch.git)
@@ -50,7 +68,16 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 ### [Predicting Stock using LSTM](https://github.com/HenrySomeCode/Predicting-Stock-Using-LSTM.git)
 
+### Attention, Machine Translation
 
+### Transformers
+
+Ref for building this own NLP self-learning syllabus ( BUT only projects not related theory): 
+
+* [Deep Learning in NLP Course](https://cole.vn/san-pham/khoa-hoc-deep-learning-in-natural-language-processing-793).
+
+  P/s: I have not joined this Cole's course. Instead, I have been studying an AI/ML/DL Course by Master Tuan Linh & TA. It's great, the Master & Teaching Assistants are friendly and willing to answer questions from students, and I recommend you to join it too!
+  
 ## Deep learning for computer vision 
 
 ### CNN
