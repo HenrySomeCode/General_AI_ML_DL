@@ -36,6 +36,8 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 ## Deep learning for natural language processing
 
+### [Word embeddings by buding a simple neural network model for sentiment classification ](https://github.com/HenrySomeCode/Simple-Word-Embeddings.git)
+
 ### (Feature) Word2vec
 
 ### (Feature) Word Vectors - GloVe : Negative Sampling, Co-occurrence matrix, Glove
