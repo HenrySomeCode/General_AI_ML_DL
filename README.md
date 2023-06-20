@@ -38,7 +38,7 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 ### [Word embeddings by buding a simple neural network model for sentiment classification ](https://github.com/HenrySomeCode/Simple-Word-Embeddings.git)
 
-### (Feature) Word2vec
+### [Word2vec - Skip gram](https://github.com/HenrySomeCode/Word2vec-Skip-Gram.git)
 
 ### (Feature) Word Vectors - GloVe : Negative Sampling, Co-occurrence matrix, Glove
 
