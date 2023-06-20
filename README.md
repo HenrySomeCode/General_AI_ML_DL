@@ -24,6 +24,13 @@ Hi, I created this repo for listing projects made by myself in the AI/ML/DL lear
 
 #### [Separate objects from image](https://github.com/HenrySomeCode/Separating-Object-From-Image.git)
 
+### (Feature) Semi-supervised learning
+
+Ref: https://keras.io/examples/vision/semisupervised_simclr/
+
+### (Feature) Reinforcement learning :
+
+Ref: https://www.tensorflow.org/agents/overview, https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
 
 ## Deep learning
 
