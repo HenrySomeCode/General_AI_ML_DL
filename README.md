@@ -65,6 +65,8 @@ Ref: https://www.tensorflow.org/agents/overview, https://pytorch.org/tutorials/i
 
 ### [Predicting Stock using LSTM](https://github.com/HenrySomeCode/Predicting-Stock-Using-LSTM.git)
 
+### [Text Classifiation using Bidirectional LSTM](https://github.com/HenrySomeCode/Text-Classifiation-using-Bidirectional-LSTM.git)
+
 Ref for building this own NLP self-learning syllabus ( BUT only projects not related theory): 
 
 * [Deep Learning in NLP Course](https://cole.vn/san-pham/khoa-hoc-deep-learning-in-natural-language-processing-793).
