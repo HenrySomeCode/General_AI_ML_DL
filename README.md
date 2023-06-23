@@ -47,6 +47,8 @@ Ref: https://www.tensorflow.org/agents/overview, https://pytorch.org/tutorials/i
 
 ### [Word2vec - Skip gram](https://github.com/HenrySomeCode/Word2vec-Skip-Gram.git)
 
+### [Warm-started training](https://github.com/HenrySomeCode/Warm-Started-Training.git)
+
 ### (Feature) Word Vectors - GloVe : Negative Sampling, Co-occurrence matrix, Glove
 
 ### RNN
