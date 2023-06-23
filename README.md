@@ -59,8 +59,6 @@ Ref: https://www.tensorflow.org/agents/overview, https://pytorch.org/tutorials/i
 
 #### (Feature) Translation with a sequence to sequence network and attention. Ref: https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html 
 
-#### (Feature) Sentiment analysis. Ref:  https://www.tensorflow.org/text/tutorials/text_classification_rnn
-
 ### LSTM
 
 ### [Predicting Stock using LSTM](https://github.com/HenrySomeCode/Predicting-Stock-Using-LSTM.git)
