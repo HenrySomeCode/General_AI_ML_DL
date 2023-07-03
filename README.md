@@ -61,9 +61,11 @@ Ref: https://www.tensorflow.org/agents/overview, https://pytorch.org/tutorials/i
 
 ### LSTM
 
-### [Predicting Stock using LSTM](https://github.com/HenrySomeCode/Predicting-Stock-Using-LSTM.git)
+#### [Predicting Stock using LSTM](https://github.com/HenrySomeCode/Predicting-Stock-Using-LSTM.git)
 
-### [Text Classifiation using Bidirectional LSTM](https://github.com/HenrySomeCode/Text-Classifiation-using-Bidirectional-LSTM.git)
+#### [Text Classifiation using Bidirectional LSTM](https://github.com/HenrySomeCode/Text-Classifiation-using-Bidirectional-LSTM.git)
+
+### [Transformers From Scratch](https://github.com/HenrySomeCode/Transformers_From_Scratch.git)
 
 Ref for building this own NLP self-learning syllabus ( BUT only projects not related theory): 
 
