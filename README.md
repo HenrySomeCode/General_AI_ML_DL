@@ -65,7 +65,12 @@ Ref: https://www.tensorflow.org/agents/overview, https://pytorch.org/tutorials/i
 
 #### [Text Classifiation using Bidirectional LSTM](https://github.com/HenrySomeCode/Text-Classifiation-using-Bidirectional-LSTM.git)
 
-### [Transformers From Scratch](https://github.com/HenrySomeCode/Transformers_From_Scratch.git)
+### Transformers
+
+#### [Transformers From Scratch](https://github.com/HenrySomeCode/Transformers_From_Scratch.git)
+
+#### [Transfer Learning With Pre-trained Distil-RoBERTa Model For Extractive Question Answering](https://github.com/HenrySomeCode/Transfer_Learning_With_Pre_trained_Distil_RoBERTa_Model_For_Extractive_Question_Answering.git)
+
 
 Ref for building this own NLP self-learning syllabus ( BUT only projects not related theory): 
 
