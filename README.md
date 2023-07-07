@@ -100,6 +100,8 @@ Ref for building this own NLP self-learning syllabus ( BUT only projects not rel
 
 #### (Feature) Multiclass semantic segmentation using DeepLabV3+. Ref: https://keras.io/examples/vision/deeplabv3_plus/
 
+### Video Understanding
+
 #### (Feature) Video classification . Ref: https://www.tensorflow.org/tutorials/video/video_classification 
 
 #### (Feature) Identify Contrails to Reduce Global Warming. REf: https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming/data 
