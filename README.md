@@ -103,6 +103,7 @@ Ref for building this own NLP self-learning syllabus ( BUT only projects not rel
 #### (Feature) Video classification . Ref: https://www.tensorflow.org/tutorials/video/video_classification 
 
 #### (Feature) Identify Contrails to Reduce Global Warming. REf: https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming/data 
+
 ### Generative model 
 
 #### [Autoencoder: the basic, denoising and anomolies detection](https://github.com/HenrySomeCode/AE_basic_denoise_anomalies_detection.git)
