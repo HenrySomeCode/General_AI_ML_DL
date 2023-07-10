@@ -19,7 +19,7 @@ Moreover, I made these projects to understand how the theories work in terms of 
 </div>
 
 
-On the other hand, AI_ML_DL_projects would contain projects that will be closer to the real world. I would need to deal with imbalanced data or something like that related to data processing. 
+On the other hand, AI_ML_DL_projects would contain projects that will be closer to the real world. I would need to show what is the problem and why it's important to solve. Also, I will need to deal with imbalanced data or something like that related to data processing. 
 
 Personally, I suggest that having these two kinds of projects is necessary since I can't follow a tutorial, available projects, or posts without doing exactly the same things as they do. But it's essential to have highly practical projects.
 
